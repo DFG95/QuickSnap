@@ -70,6 +70,7 @@ namespace CardGames
         public static void Main()
         {
 			int powerLevel = 9000;
+			int herewego =2000;
 			//Open the game window
             SwinGame.OpenGraphicsWindow("Snap!", 860, 500);
 
