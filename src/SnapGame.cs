@@ -69,7 +69,7 @@ namespace CardGames
 
         public static void Main()
         {
-			int helloeveryone = 0;
+			int helloWorld=0;
 			//Open the game window
             SwinGame.OpenGraphicsWindow("Snap!", 860, 500);
 
