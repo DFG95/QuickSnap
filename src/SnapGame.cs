@@ -69,7 +69,8 @@ namespace CardGames
 
         public static void Main()
         {
-            //Open the game window
+			int helloeveryone = 0;
+			//Open the game window
             SwinGame.OpenGraphicsWindow("Snap!", 860, 500);
 
 			//Load the card images and set their cell details
