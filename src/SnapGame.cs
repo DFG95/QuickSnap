@@ -69,6 +69,7 @@ namespace CardGames
 
         public static void Main()
         {
+		int herewego = 1;
             //Open the game window
             SwinGame.OpenGraphicsWindow("Snap!", 860, 500);
 
