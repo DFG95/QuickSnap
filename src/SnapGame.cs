@@ -75,7 +75,7 @@ namespace CardGames
 			//Load the card images and set their cell details
             LoadResources();
             
-			// Create the game!
+			// Create the game! YAY
 			Snap myGame = new Snap ();
 
             //Run the game loop
